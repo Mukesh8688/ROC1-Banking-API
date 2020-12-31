@@ -4,4 +4,3 @@ The Banking API will manage the bank accounts of its users. It will be managed b
 Environment / Technologies 
 Java, JDBC, SQL, PostgreSQL, Tomcat, Maven
 
-Roles / Responsibilities.
